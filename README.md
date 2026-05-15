@@ -1,7 +1,8 @@
-- 👋 Hi there, I'm Natan (@NatanAklilu)!
-- 🌱 I graduated from Cornell University with a B.S. in Computer Science (Spring 2025).
-- 🤔 I'm very interested in Software Engineering with an emphasis on Backend development. 
-- 👯 I’m looking to collaborate with passionate software engineers who want to push innovative ideas out to the world!
+- 👋 Hi there, I'm Natan (@NatanAklilu)! Please check out [my personal website](https://natanaklilu.github.io/professional_website/), but here are some highlights:
+- 🌱 I have graduated from Cornell University with a B.S. in Computer Science (Spring 2025).
+- 🤔 I'm very interested in Software Engineering with an emphasis on Backend development.
+- 🧑‍💼 My professional experience includes SWE internships at Amazon and Coinbase, with a conversion to full-time SWE at Coinbase after graduating!
+- 👯 I’m excited to collaborate with passionate software engineers who want to push innovative ideas out to the world!
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/natantaklilu/)
 
 <!--
